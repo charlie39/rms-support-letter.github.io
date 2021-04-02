@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/rms-support-letter/rms-support-letter.github.io)
+
 # An open letter in support of RMS.
 
 This README is available in:
